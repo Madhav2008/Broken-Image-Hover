@@ -76,7 +76,7 @@ body {
     background-size: cover;
 }
 
-.box span:nth-child(1) {
+.box1 span:nth-child(1) {
     clip-path: polygon(0 0, 50% 0, 50% 50%, 0 50%);
     transition-delay: 0s;
 }
