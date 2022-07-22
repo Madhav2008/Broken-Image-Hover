@@ -15,7 +15,8 @@ body {
 .box {
     position: relative;
     width: 400px;
-    height: 300px;background: #fff;
+    height: 300px;
+    background: #fff;
 }
 
 .box span {
