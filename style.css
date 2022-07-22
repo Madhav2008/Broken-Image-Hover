@@ -33,7 +33,7 @@ body {
 
 .box span:nth-child(2) {
     clip-path: polygon(50% 0, 100% 0, 100% 50%, 50% 50%);
- 
+
     transition-delay: 0.25s;
 }
 
