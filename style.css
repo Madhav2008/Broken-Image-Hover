@@ -33,6 +33,6 @@ body {
 }
 
 .box span:nth-child(1) {
-    clip-path: polygon(0 0, 50% 0, 50% 50%, 0 50%);
+    clip-path: polygon(50% 0, 100% 0, 100% 50%, 50% 50%);
     background: #0a0;
 }
