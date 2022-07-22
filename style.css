@@ -59,6 +59,6 @@ body {
     transform: translate(-40px, -40px);
 }
 
-.box:hover span:nth-child(1) {
+.box:hover span:nth-child(4) {
     transform: translate(-40px, -40px);
 }
