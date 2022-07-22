@@ -42,7 +42,7 @@ body {
 .box span:nth-child(3) {
     clip-path: polygon(0 50%, 50% 50%, 50% 100%, 0 100%);
     /* background: #00a; */
-    transition-delay: 0s;
+    transition-delay: 0.5s;
 }
 
 .box span:nth-child(4) {
