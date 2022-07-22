@@ -52,7 +52,7 @@ body {
 }
 
 .box:hover span:nth-child(2) {
-    transform: translate(40px, -80px) rotate(25deg);
+    transform: translate(40px, -100px) rotate(25deg);
 }
 
 .box:hover span:nth-child(3) {
