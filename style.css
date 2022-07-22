@@ -23,5 +23,6 @@ body {
     position: absolute;
     inset: 0;
     transition: 0.5s;
-    background: url(My.png);background-size: ;
+    background: url(My.png);
+    background-size: ;
 }
