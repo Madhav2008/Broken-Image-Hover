@@ -96,7 +96,7 @@ body {
     transition-delay: 0.75s;
 }
 
-.box:hover span:nth-child(1) {
+.box1:hover span:nth-child(1) {
     transform: translate(-40px, -60px) rotate(-15deg);
 }
 
