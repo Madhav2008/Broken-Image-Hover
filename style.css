@@ -68,7 +68,7 @@ body {
     height: 400px;
 }
 
-.box span {
+.box1 span {
     position: absolute;
     inset: 0;
     transition: 0.5s;
