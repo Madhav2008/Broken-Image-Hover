@@ -22,5 +22,5 @@ body {
 .box span {
     position: absolute;
     inset: 0;
-    transition: 0.5s;background: url();
+    transition: 0.5s;background: url(My.png);
 }
