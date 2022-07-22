@@ -47,4 +47,4 @@ body {
     background: #aa0;
 }
 
-.box:hover span:nth-child(1) {}
+.box:hover span:nth-child(1) {transform: ;}
