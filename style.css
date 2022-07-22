@@ -45,4 +45,4 @@ body {
 .box span:nth-child(4) {
     clip-path: polygon(0 50%, 50% 50%, 50% 100%, 0 100%);
     background: #aa0;
-}
+}.box span:nth-child(1)
