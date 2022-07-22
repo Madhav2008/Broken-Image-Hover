@@ -60,7 +60,9 @@ body {
 
 .box:hover span:nth-child(4) {
     transform: translate(40px, 80px) rotate(-15deg);
-}.box {
+}
+
+.box {
     position: relative;
     width: 400px;
     height: 400px;
