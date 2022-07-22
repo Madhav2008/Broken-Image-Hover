@@ -81,7 +81,7 @@ body {
     transition-delay: 0s;
 }
 
-.box span:nth-child(2) {
+.box1 span:nth-child(2) {
     clip-path: polygon(50% 0, 100% 0, 100% 50%, 50% 50%);
     transition-delay: 0.25s;
 }
