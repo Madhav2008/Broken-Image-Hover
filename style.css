@@ -63,7 +63,7 @@ body {
 }
 
 .box1 {
-    position: relative;
+    position: absolute;
     width: 400px;
     height: 400px;
 }
