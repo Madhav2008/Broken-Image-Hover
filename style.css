@@ -27,4 +27,4 @@ body {
     background-size: cover;
 }
 
-.box span
+.box span:nth-child()
