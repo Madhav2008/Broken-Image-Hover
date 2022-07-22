@@ -100,7 +100,7 @@ body {
     transform: translate(-40px, -60px) rotate(-15deg);
 }
 
-.box:hover span:nth-child(2) {
+.box1:hover span:nth-child(2) {
     transform: translate(40px, -100px) rotate(25deg);
 }
 
