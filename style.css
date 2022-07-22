@@ -20,5 +20,5 @@ body {
 
 .box span {
     position: absolute;
-    inset: 0;transition: ;
+    inset: 0;transition: 0.5s;
 }
