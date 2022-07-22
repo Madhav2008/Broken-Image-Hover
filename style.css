@@ -48,7 +48,7 @@ body {
 }
 
 .box:hover span:nth-child(1) {
-    transform: translate(-40px, -60px) rotate(-15deg);
+    transform: translate(-40px, 60px) rotate(-15deg);
 }
 
 .box:hover span:nth-child(2) {
