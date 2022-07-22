@@ -62,7 +62,7 @@ body {
     transform: translate(40px, 80px) rotate(-15deg);
 }
 
-.box {
+.box1 {
     position: relative;
     width: 400px;
     height: 400px;
